@@ -1,0 +1,13 @@
+[package]
+name = "cax"
+version = "0.1.0"
+edition.workspace = true
+authors.workspace = true
+description.workspace = true
+keywords.workspace = true
+license.workspace = true
+categories.workspace = true
+documentation.workspace = true
+repository.workspace = true
+
+[dependencies]

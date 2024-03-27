@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = ["cax"]
+
+[workspace.package]
+authors = ["tobimd"]
+description = "mini-parser for converting custom codes into ansi escape sequences (terminal colors & styles)"
+edition = "2021"
+keywords = ["ansi", "color", "terminal", "style"]
+license = "MIT"
+categories = ["command-line-utilities", "encoding", "parser-implementations"]
+documentation = "https://docs.rs/cax"
+repository = "https://github.com/tobimd/cax"

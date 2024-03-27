@@ -1,0 +1,11 @@
+[package]
+name = "cax"
+version = "0.1.0"
+authors = ["tobimd"]
+description = "mini-parser for converting custom codes into ansi escape sequences (terminal colors & styles)"
+edition = "2021"
+keywords = ["ansi", "color", "terminal", "style"]
+license = "MIT"
+categories = ["command-line-utilities", "encoding", "parser-implementations"]
+
+[dependencies]
